@@ -1,6 +1,6 @@
 {
   "name": "sone-template-cloudflare-worker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/sone-dao/sone-template-cloudflare-worker.git",
   "author": "Lon Beshiri <lonbeshiri@gmail.com>",
