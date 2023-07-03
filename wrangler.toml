@@ -1,4 +1,9 @@
 name="sone-template-cloudflare-worker"
 main="src/index.ts"
-
 compatibility_date = "2022-11-22"
+
+[env.stage]
+vars = { ENVIRONMENT = "stage" }
+
+[env.beta]
+vars = { ENVIRONMENT = "beta" }
